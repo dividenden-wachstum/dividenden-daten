@@ -1,119 +1,142 @@
 [
     {
         "symbol": "MUV2.DE",
-        "name": "MUENCHENER RUECKVERS.-GES. AG N",
+        "name": "Münchener Rück",
         "isin": "N/A",
         "price": 509.0,
         "yield": 3.93,
         "years_no_cut": 25,
+        "years_increased": 4,
         "cagr_10y": 9.94
     },
     {
         "symbol": "HEN3.DE",
-        "name": "Henkel AG & Co. KGaA          I",
+        "name": "Henkel",
         "isin": "N/A",
         "price": 74.68,
         "yield": 2.73,
         "years_no_cut": 25,
+        "years_increased": 1,
         "cagr_10y": 4.53
     },
     {
         "symbol": "BC8.DE",
-        "name": "BECHTLE AG                    I",
+        "name": "Bechtle",
         "isin": "N/A",
         "price": 31.64,
         "yield": 2.21,
         "years_no_cut": 24,
+        "years_increased": 0,
         "cagr_10y": 13.35
     },
     {
         "symbol": "FPE3.DE",
-        "name": "FUCHS SE                      N",
+        "name": "Fuchs SE",
         "isin": "N/A",
         "price": 41.06,
         "yield": 2.85,
         "years_no_cut": 21,
+        "years_increased": 21,
         "cagr_10y": 4.27
     },
     {
         "symbol": "ALV.DE",
-        "name": "Allianz SE                    v",
+        "name": "Allianz",
         "isin": "N/A",
         "price": 427.1,
         "yield": 3.61,
         "years_no_cut": 16,
+        "years_increased": 4,
         "cagr_10y": 8.44
     },
     {
         "symbol": "SY1.DE",
-        "name": "Symrise AG                    I",
+        "name": "Symrise",
         "isin": "N/A",
         "price": 86.9,
         "yield": 1.38,
         "years_no_cut": 12,
+        "years_increased": 12,
         "cagr_10y": 4.81
     },
     {
+        "symbol": "EOAN.DE",
+        "name": "E.ON",
+        "isin": "N/A",
+        "price": 19.595,
+        "yield": 2.81,
+        "years_no_cut": 8,
+        "years_increased": 8,
+        "cagr_10y": 0.96
+    },
+    {
         "symbol": "RWE.DE",
-        "name": "RWE AG                        I",
+        "name": "RWE",
         "isin": "N/A",
         "price": 58.8,
         "yield": 1.87,
         "years_no_cut": 6,
+        "years_increased": 2,
         "cagr_10y": 0.96
     },
     {
         "symbol": "DTE.DE",
-        "name": "DEUTSCHE TELEKOM AG           N",
+        "name": "Deutsche Telekom",
         "isin": "N/A",
         "price": 26.39,
         "yield": 3.41,
         "years_no_cut": 5,
+        "years_increased": 4,
         "cagr_10y": 6.05
     },
     {
         "symbol": "SAP.DE",
-        "name": "SAP SE                        I",
+        "name": "SAP",
         "isin": "N/A",
         "price": 140.2,
         "yield": 1.68,
         "years_no_cut": 2,
+        "years_increased": 2,
         "cagr_10y": 7.89
     },
     {
         "symbol": "DTG.DE",
-        "name": "Daimler Truck Holding AG      N",
+        "name": "Daimler Truck",
         "isin": "N/A",
         "price": 45.99,
         "yield": 4.13,
         "years_no_cut": 2,
+        "years_increased": 0,
         "cagr_10y": "-"
     },
     {
         "symbol": "BAS.DE",
-        "name": "BASF SE                       N",
+        "name": "BASF",
         "isin": "N/A",
         "price": 48.57,
         "yield": 4.63,
         "years_no_cut": 0,
+        "years_increased": 0,
         "cagr_10y": -2.16
     },
     {
         "symbol": "BMW.DE",
-        "name": "BAYERISCHE MOTOREN WERKE AG   S",
+        "name": "BMW",
         "isin": "N/A",
         "price": 56.96,
         "yield": 7.55,
         "years_no_cut": 0,
+        "years_increased": 0,
         "cagr_10y": 4.02
     },
     {
         "symbol": "MBG.DE",
-        "name": "Mercedes-Benz Group AG        N",
+        "name": "Mercedes-Benz",
         "isin": "N/A",
         "price": 44.775,
         "yield": 9.6,
         "years_no_cut": 0,
+        "years_increased": 0,
         "cagr_10y": 5.79
     }
 ]
