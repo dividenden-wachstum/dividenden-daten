@@ -1,21 +1,5 @@
 [
   {
-    "name": "freenet",
-    "symbol": "FNTN.DE",
-    "yield": 7.94,
-    "years_no_cut": 3,
-    "years_increased": 3,
-    "cagr_10y": 2.7
-  },
-  {
-    "name": "Dürr",
-    "symbol": "DUE.DE",
-    "yield": 3.91,
-    "years_no_cut": 4,
-    "years_increased": 0,
-    "cagr_10y": -3.05
-  },
-  {
     "name": "Münchener Rück",
     "symbol": "MUV2.DE",
     "yield": 3.84,
@@ -40,7 +24,7 @@
     "cagr_10y": 7.36
   },
   {
-    "name": "Fuchs SE (Stamm)",
+    "name": "Fuchs SE",
     "symbol": "FPE.DE",
     "yield": 3.43,
     "years_no_cut": 19,
@@ -78,22 +62,6 @@
     "years_no_cut": 0,
     "years_increased": 0,
     "cagr_10y": 5.0
-  },
-  {
-    "name": "Fuchs SE (Vorzug)",
-    "symbol": "FPE3.DE",
-    "yield": 2.9,
-    "years_no_cut": 21,
-    "years_increased": 21,
-    "cagr_10y": 4.03
-  },
-  {
-    "name": "KSB (Stamm)",
-    "symbol": "KSB.DE",
-    "yield": 2.84,
-    "years_no_cut": 4,
-    "years_increased": 4,
-    "cagr_10y": 19.09
   },
   {
     "name": "Siemens Healthineers",
@@ -192,20 +160,20 @@
     "cagr_10y": 8.5
   },
   {
-    "name": "Merck",
-    "symbol": "MRK.DE",
-    "yield": 1.55,
-    "years_no_cut": 15,
-    "years_increased": 0,
-    "cagr_10y": 8.57
-  },
-  {
     "name": "SAP",
     "symbol": "SAP.DE",
     "yield": 1.55,
     "years_no_cut": 2,
     "years_increased": 2,
     "cagr_10y": 8.26
+  },
+  {
+    "name": "Merck",
+    "symbol": "MRK.DE",
+    "yield": 1.55,
+    "years_no_cut": 15,
+    "years_increased": 0,
+    "cagr_10y": 8.57
   },
   {
     "name": "Deutsche Börse",
