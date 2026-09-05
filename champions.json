@@ -10,7 +10,7 @@
   {
     "name": "Hannover Rück",
     "symbol": "HNR1.DE",
-    "yield": 3.42,
+    "yield": 3.45,
     "years_no_cut": 4,
     "years_increased": 4,
     "cagr_10y": 7.36
@@ -18,7 +18,7 @@
   {
     "name": "Allianz",
     "symbol": "ALV.DE",
-    "yield": 3.4,
+    "yield": 3.42,
     "years_no_cut": 16,
     "years_increased": 4,
     "cagr_10y": 8.65
@@ -26,7 +26,7 @@
   {
     "name": "DHL Group",
     "symbol": "DHL.DE",
-    "yield": 3.35,
+    "yield": 3.37,
     "years_no_cut": 15,
     "years_increased": 0,
     "cagr_10y": 9.03
@@ -34,42 +34,34 @@
   {
     "name": "Fuchs SE",
     "symbol": "FPE.DE",
-    "yield": 3.22,
+    "yield": 3.18,
     "years_no_cut": 19,
     "years_increased": 19,
     "cagr_10y": 4.07
   },
   {
-    "name": "KSB (Vorzug)",
-    "symbol": "KSB3.DE",
-    "yield": 3.14,
-    "years_no_cut": 4,
-    "years_increased": 4,
-    "cagr_10y": 18.61
-  },
-  {
     "name": "Deutsche Telekom",
     "symbol": "DTE.DE",
-    "yield": 3.13,
+    "yield": 3.17,
     "years_no_cut": 5,
     "years_increased": 4,
     "cagr_10y": 5.62
   },
   {
+    "name": "KSB (Vorzug)",
+    "symbol": "KSB3.DE",
+    "yield": 3.16,
+    "years_no_cut": 4,
+    "years_increased": 4,
+    "cagr_10y": 18.61
+  },
+  {
     "name": "DWS Group",
     "symbol": "DWS.DE",
-    "yield": 2.91,
+    "yield": 2.9,
     "years_no_cut": 0,
     "years_increased": 0,
     "cagr_10y": 5.0
-  },
-  {
-    "name": "Siemens Healthineers",
-    "symbol": "SHL.DE",
-    "yield": 2.45,
-    "years_no_cut": 6,
-    "years_increased": 0,
-    "cagr_10y": 4.39
   },
   {
     "name": "Rational",
@@ -80,9 +72,17 @@
     "cagr_10y": 8.01
   },
   {
+    "name": "Siemens Healthineers",
+    "symbol": "SHL.DE",
+    "yield": 2.44,
+    "years_no_cut": 6,
+    "years_increased": 0,
+    "cagr_10y": 4.39
+  },
+  {
     "name": "Krones",
     "symbol": "KRN.DE",
-    "yield": 2.24,
+    "yield": 2.22,
     "years_no_cut": 4,
     "years_increased": 4,
     "cagr_10y": 6.7
@@ -90,7 +90,7 @@
   {
     "name": "ATOSS Software",
     "symbol": "AOF.DE",
-    "yield": 2.19,
+    "yield": 2.17,
     "years_no_cut": 5,
     "years_increased": 5,
     "cagr_10y": 13.16
@@ -98,7 +98,7 @@
   {
     "name": "Talanx",
     "symbol": "TLX.DE",
-    "yield": 2.1,
+    "yield": 2.12,
     "years_no_cut": 12,
     "years_increased": 4,
     "cagr_10y": 8.46
@@ -106,15 +106,23 @@
   {
     "name": "Heidelberg Materials",
     "symbol": "HEI.DE",
-    "yield": 2.02,
+    "yield": 1.98,
     "years_no_cut": 5,
     "years_increased": 5,
     "cagr_10y": 10.91
   },
   {
+    "name": "Bechtle",
+    "symbol": "BC8.DE",
+    "yield": 1.93,
+    "years_no_cut": 24,
+    "years_increased": 0,
+    "cagr_10y": 12.98
+  },
+  {
     "name": "Siemens",
     "symbol": "SIE.DE",
-    "yield": 1.92,
+    "yield": 1.91,
     "years_no_cut": 4,
     "years_increased": 4,
     "cagr_10y": 4.5
@@ -122,23 +130,15 @@
   {
     "name": "RWE",
     "symbol": "RWE.DE",
-    "yield": 1.9,
+    "yield": 1.88,
     "years_no_cut": 6,
     "years_increased": 2,
     "cagr_10y": 1.06
   },
   {
-    "name": "Bechtle",
-    "symbol": "BC8.DE",
-    "yield": 1.89,
-    "years_no_cut": 24,
-    "years_increased": 0,
-    "cagr_10y": 12.98
-  },
-  {
     "name": "GEA Group",
     "symbol": "G1A.DE",
-    "yield": 1.79,
+    "yield": 1.77,
     "years_no_cut": 15,
     "years_increased": 4,
     "cagr_10y": 4.11
@@ -146,7 +146,7 @@
   {
     "name": "Scout24",
     "symbol": "G24.DE",
-    "yield": 1.7,
+    "yield": 1.73,
     "years_no_cut": 4,
     "years_increased": 4,
     "cagr_10y": 12.64
@@ -162,7 +162,7 @@
   {
     "name": "Merck",
     "symbol": "MRK.DE",
-    "yield": 1.6,
+    "yield": 1.62,
     "years_no_cut": 15,
     "years_increased": 0,
     "cagr_10y": 8.57
@@ -170,7 +170,7 @@
   {
     "name": "Deutsche Börse",
     "symbol": "DB1.DE",
-    "yield": 1.41,
+    "yield": 1.42,
     "years_no_cut": 12,
     "years_increased": 10,
     "cagr_10y": 6.6
@@ -178,7 +178,7 @@
   {
     "name": "Symrise",
     "symbol": "SY1.DE",
-    "yield": 1.31,
+    "yield": 1.33,
     "years_no_cut": 12,
     "years_increased": 12,
     "cagr_10y": 4.61
@@ -202,7 +202,7 @@
   {
     "name": "Alzchem Group",
     "symbol": "ACT.DE",
-    "yield": 1.11,
+    "yield": 1.1,
     "years_no_cut": 5,
     "years_increased": 5,
     "cagr_10y": 23.65
@@ -210,7 +210,7 @@
   {
     "name": "Jenoptik",
     "symbol": "JEN.DE",
-    "yield": 0.97,
+    "yield": 0.95,
     "years_no_cut": 5,
     "years_increased": 3,
     "cagr_10y": 6.26
@@ -218,7 +218,7 @@
   {
     "name": "Nemetschek",
     "symbol": "NEM.DE",
-    "yield": 0.82,
+    "yield": 0.87,
     "years_no_cut": 15,
     "years_increased": 12,
     "cagr_10y": 14.19
@@ -226,7 +226,7 @@
   {
     "name": "Rheinmetall",
     "symbol": "RHM.DE",
-    "yield": 0.76,
+    "yield": 0.78,
     "years_no_cut": 4,
     "years_increased": 4,
     "cagr_10y": 24.84
@@ -234,7 +234,7 @@
   {
     "name": "Elmos Semiconductor",
     "symbol": "ELG.DE",
-    "yield": 0.75,
+    "yield": 0.72,
     "years_no_cut": 14,
     "years_increased": 4,
     "cagr_10y": 13.11
